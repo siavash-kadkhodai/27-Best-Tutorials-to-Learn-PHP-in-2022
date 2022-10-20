@@ -27,3 +27,23 @@ Compare
 The last reason to learn PHP: much like other programming languages, it has a huge community and a ton of free resources. That means you have plenty of places to turn to ask for help, exchange ideas, and download free software or find helpful guides.
 
 On that note, let’s dive into these PHP tutorials you can find online.
+
+
+
+
+Top 15 Free PHP Tutorials for Beginners
+
+
+If you can’t afford paid courses or just want to try out PHP to see how you like it, free PHP tutorials are a great place to start. Free doesn’t always mean lower quality, there are plenty of free tutorials out there that are just as good (or even better) than some paid lessons. Many developers say that the free online resources are so good that you might not even need to purchase premium courses!
+
+Each of these websites offers a unique way of learning PHP. Start here, and if you need more guidance, you can move on to the paid PHP tutorials below.
+
+1. Official PHP Manual
+
+Where better to start than the official documentation from the creators of PHP? This guide walks you through everything, from an introduction to PHP to how to install PHP and grasp the basic syntax. It’s a wonderful first read, especially if you’re used to programming documentation already.
+
+The one issue with this is that, while it does cover some advanced features, it can only take you so far. It’s also quite straightforward and to the point, which is great for some, but total beginners might benefit more from a guided tutorial.
+
+Check out the documentation and read through a few sections. See how it works for you. For many, a reference manual and a lot of self-guided practice is the best way to learn.
+
+
