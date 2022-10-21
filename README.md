@@ -47,3 +47,11 @@ The one issue with this is that, while it does cover some advanced features, it 
 Check out the documentation and read through a few sections. See how it works for you. For many, a reference manual and a lot of self-guided practice is the best way to learn.
 
 
+2. W3Schools PHP Tutorial
+
+
+W3Schools is a great resource for beginner web developers of any age. Its guides are very simple and easy to follow, plus there are lots of references and examples to look at and plenty of exercises and quizzes to help you memorize PHP. You can even get W3Schools online certification.
+
+If you ever want to learn a new programming language and are looking for tutorials that are fun and simple to work with, check W3Schools’ documentation.
+
+
