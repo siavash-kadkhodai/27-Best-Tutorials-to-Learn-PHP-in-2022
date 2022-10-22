@@ -54,4 +54,8 @@ W3Schools is a great resource for beginner web developers of any age. Its guides
 
 If you ever want to learn a new programming language and are looking for tutorials that are fun and simple to work with, check W3Schools’ documentation.
 
+3. PHP: The Right Way
 
+Like every programming language, PHP has best practices you should follow. Fail to do so and your code will be slow and clunky, and perhaps even break entirely. PHP: The Right Way tells you all the programming standards that might not be obvious to new developers.
+
+It’s not a beginners’ tutorial that will walk you through everything step by step, but it’s still worth a read-through so you can create quality code
