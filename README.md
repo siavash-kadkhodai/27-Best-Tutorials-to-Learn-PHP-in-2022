@@ -59,3 +59,11 @@ If you ever want to learn a new programming language and are looking for tutoria
 Like every programming language, PHP has best practices you should follow. Fail to do so and your code will be slow and clunky, and perhaps even break entirely. PHP: The Right Way tells you all the programming standards that might not be obvious to new developers.
 
 It’s not a beginners’ tutorial that will walk you through everything step by step, but it’s still worth a read-through so you can create quality code
+
+4. FreeCodeCamp’s Free PHP tutorial
+
+If you love watching video tutorials, this huge five-hour session is perfect for you. The full course covers all the basics of PHP in depth, showing you everything you’ll need to know from scratch.
+
+Dedicate an afternoon to this, and you’ll come out of it a beginner PHP programmer. If you’ve already studied a little PHP and want to skip ahead, you can jump to any section by clicking the timestamps in the description.
+[CTA]
+
