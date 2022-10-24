@@ -67,3 +67,7 @@ If you love watching video tutorials, this huge five-hour session is perfect for
 Dedicate an afternoon to this, and you’ll come out of it a beginner PHP programmer. If you’ve already studied a little PHP and want to skip ahead, you can jump to any section by clicking the timestamps in the description.
 [CTA]
 
+5. Learn PHP with Codeacademy
+
+Do you learn best by diving right into programming? Codeacademy is a totally free resource that teaches through code rather than with just video or text tutorials. Though it’s primarily made up of interactive lessons, there are also quizzes, articles, and freeform projects. It’s just like a self-guided college course and all you need to do is make an account.
+
