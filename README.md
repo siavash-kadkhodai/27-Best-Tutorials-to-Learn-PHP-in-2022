@@ -71,3 +71,8 @@ Dedicate an afternoon to this, and you’ll come out of it a beginner PHP progra
 
 Do you learn best by diving right into programming? Codeacademy is a totally free resource that teaches through code rather than with just video or text tutorials. Though it’s primarily made up of interactive lessons, there are also quizzes, articles, and freeform projects. It’s just like a self-guided college course and all you need to do is make an account.
 
+
+6. PHP Apprentice
+
+Beginner or experienced, PHP Apprentice has good advice for you. The free online book is a work in progress, currently with twenty-two bite-sized pages mostly filled with examples of PHP in action. It’s a little like typical programming documentation, but a lot simpler and easier to grasp.
+
