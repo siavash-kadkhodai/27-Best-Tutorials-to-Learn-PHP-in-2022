@@ -82,3 +82,7 @@ Beginner or experienced, PHP Apprentice has good advice for you. The free online
 A lot of these free resources cover the basics and not much else. This gigantic set of tutorials goes over absolutely everything, covering all the functions and libraries PHP has to offer.
 
 This reads less like a guide and more like documentation, so if you liked the official PHP manual but want something a little more substantial, try out this site.
+
+8. TutorialsPoint PHP Tutorial
+
+This is another absolutely huge resource of PHP learning, but rather than very straightforward, documentation-style pages, it’s structured more like a series of tutorials. There’s quite a lot here, from the basics to more advanced topics, plus examples of using PHP for logins, forms, and with AJAX.
