@@ -86,3 +86,6 @@ This reads less like a guide and more like documentation, so if you liked the of
 8. TutorialsPoint PHP Tutorial
 
 This is another absolutely huge resource of PHP learning, but rather than very straightforward, documentation-style pages, it’s structured more like a series of tutorials. There’s quite a lot here, from the basics to more advanced topics, plus examples of using PHP for logins, forms, and with AJAX.
+
+
+9.
