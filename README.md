@@ -88,4 +88,6 @@ This reads less like a guide and more like documentation, so if you liked the of
 This is another absolutely huge resource of PHP learning, but rather than very straightforward, documentation-style pages, it’s structured more like a series of tutorials. There’s quite a lot here, from the basics to more advanced topics, plus examples of using PHP for logins, forms, and with AJAX.
 
 
-9.
+9. PHP Basics Playlist
+
+If you’re still grasping at the basics and prefer video walkthroughs, these PHP tutorials have exactly what you need. The 35 videos are relatively short, ranging from 5 to 20 minutes and covering a lot of different topics. You can watch the whole series for free in about five hours.
