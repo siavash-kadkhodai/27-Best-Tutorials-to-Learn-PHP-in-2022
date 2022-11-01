@@ -92,4 +92,4 @@ This is another absolutely huge resource of PHP learning, but rather than very s
 
 If you’re still grasping at the basics and prefer video walkthroughs, these PHP tutorials have exactly what you need. The 35 videos are relatively short, ranging from 5 to 20 minutes and covering a lot of different topics. You can watch the whole series for free in about five hours.
 
-10.11
+10.11.12
