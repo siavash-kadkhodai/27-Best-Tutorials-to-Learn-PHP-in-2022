@@ -92,4 +92,6 @@ This is another absolutely huge resource of PHP learning, but rather than very s
 
 If you’re still grasping at the basics and prefer video walkthroughs, these PHP tutorials have exactly what you need. The 35 videos are relatively short, ranging from 5 to 20 minutes and covering a lot of different topics. You can watch the whole series for free in about five hours.
 
-10.11.12.13
+10. Learn PHP in Y Minutes
+
+Want to learn PHP, fast? This document goes over everything briefly and with no frills, just code. There’s no hand-holding or lengthy explanations, it manages to condense PHP into a single page. Great if you like your tutorials to the point.
