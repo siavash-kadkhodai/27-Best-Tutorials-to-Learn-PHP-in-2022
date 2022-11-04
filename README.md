@@ -95,3 +95,5 @@ If you’re still grasping at the basics and prefer video walkthroughs, these PH
 10. Learn PHP in Y Minutes
 
 Want to learn PHP, fast? This document goes over everything briefly and with no frills, just code. There’s no hand-holding or lengthy explanations, it manages to condense PHP into a single page. Great if you like your tutorials to the point.
+
+11.
