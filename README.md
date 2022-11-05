@@ -96,4 +96,6 @@ If you’re still grasping at the basics and prefer video walkthroughs, these PH
 
 Want to learn PHP, fast? This document goes over everything briefly and with no frills, just code. There’s no hand-holding or lengthy explanations, it manages to condense PHP into a single page. Great if you like your tutorials to the point.
 
-11.
+11. Learn-php.org Free Interactive PHP Tutorial
+
+The unique thing about this PHP tutorial is that it’s a set of interactive exercises that encourage you to try out coding and see if you can get the expected output. If you fail, it’ll let you know where you went wrong, just like a real code compiler. Try this out if you want to test out your syntax in real-time with a guided lesson.
