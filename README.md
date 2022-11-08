@@ -107,3 +107,8 @@ If you want to build your own website from scratch, here is the perfect video pl
 13. PHP5 Tutorial
 
 This documentation walks you through PHP and MySQL with plenty of helpful images and easy-to-follow guidance. The one downside is that it’s focused on PHP 5, which has already reached its end of life. PHP 5.6 is still widely used across the web, but it’s probably best to work with PHP 7 if you can. This website still covers the basics of PHP fairly well, so it may still be worth reading.
+
+
+14. Traversy Media’s PHP Front To Back Playlist
+
+Check out this playlist: it’ll teach you everything there is to know about PHP in a series of 22 video tutorials. This goes over the basics like installation and PHP syntax, then goes on to cover advanced implementation like MySQLi integration and setting cookies with PHP.
