@@ -112,3 +112,5 @@ This documentation walks you through PHP and MySQL with plenty of helpful images
 14. Traversy Media’s PHP Front To Back Playlist
 
 Check out this playlist: it’ll teach you everything there is to know about PHP in a series of 22 video tutorials. This goes over the basics like installation and PHP syntax, then goes on to cover advanced implementation like MySQLi integration and setting cookies with PHP.
+
+15.
