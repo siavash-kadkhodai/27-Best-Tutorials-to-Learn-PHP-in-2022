@@ -113,4 +113,7 @@ This documentation walks you through PHP and MySQL with plenty of helpful images
 
 Check out this playlist: it’ll teach you everything there is to know about PHP in a series of 22 video tutorials. This goes over the basics like installation and PHP syntax, then goes on to cover advanced implementation like MySQLi integration and setting cookies with PHP.
 
-15.
+15. SoloLearn PHP Tutorial
+
+SoloLearn made their series of lessons to be fun and engaging. Quizzes help you remember what you studied, while achievements and interactive content keeps you interested. All you need to do is create an account and you can even take the course on your phone as well as online. With over one million students, a lot of developers have gotten their start here.
+[CTA]
