@@ -118,4 +118,4 @@ Check out this playlist: it’ll teach you everything there is to know about PHP
 SoloLearn made their series of lessons to be fun and engaging. Quizzes help you remember what you studied, while achievements and interactive content keeps you interested. All you need to do is create an account and you can even take the course on your phone as well as online. With over one million students, a lot of developers have gotten their start here.
 [CTA]
 
-16.
+16..
