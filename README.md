@@ -118,4 +118,13 @@ Check out this playlist: it’ll teach you everything there is to know about PHP
 SoloLearn made their series of lessons to be fun and engaging. Quizzes help you remember what you studied, while achievements and interactive content keeps you interested. All you need to do is create an account and you can even take the course on your phone as well as online. With over one million students, a lot of developers have gotten their start here.
 [CTA]
 
-16...
+
+
+12 Paid PHP Tutorials for Serious Developers
+
+
+1. Udemy PHP Tutorials
+
+Udemy is a wildly popular online platform for all sorts of courses from a variety of topics. Three and a half million students are learning PHP on the platform alone. There are hundreds of PHP courses covering the language in every possible angle, so there’s something for everyone here.
+
+The one downside: the courses can be quite expensive, running at usually $50-$200. But these often contain hours or even days of video as well as interactive lessons and downloadable resources, so it can be a good investment.
