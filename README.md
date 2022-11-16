@@ -128,3 +128,7 @@ SoloLearn made their series of lessons to be fun and engaging. Quizzes help you 
 Udemy is a wildly popular online platform for all sorts of courses from a variety of topics. Three and a half million students are learning PHP on the platform alone. There are hundreds of PHP courses covering the language in every possible angle, so there’s something for everyone here.
 
 The one downside: the courses can be quite expensive, running at usually $50-$200. But these often contain hours or even days of video as well as interactive lessons and downloadable resources, so it can be a good investment.
+
+2. PHP for Beginners
+
+If you want a course that takes you from zero to PHP mastery, try this out. It teaches you how to integrate PHP with CMSes like WordPress, work with MySQL databases, and create interactive content. Besides all that, you’ll be taught the basics of programming and debugging your own code. There’s an absolute ton of content here, so get ready for a long course.
