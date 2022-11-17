@@ -132,3 +132,9 @@ The one downside: the courses can be quite expensive, running at usually $50-$20
 2. PHP for Beginners
 
 If you want a course that takes you from zero to PHP mastery, try this out. It teaches you how to integrate PHP with CMSes like WordPress, work with MySQL databases, and create interactive content. Besides all that, you’ll be taught the basics of programming and debugging your own code. There’s an absolute ton of content here, so get ready for a long course.
+
+3. Lynda PHP Tutorials
+
+Lynda contains 55 PHP courses and nearly 2000 video tutorials, which are usually several hours long. Like Udemy, these are made by many different people and cover a variety of PHP-related topics. You can sort the results by skill level, subject, and even PHP version.
+
+Plus, a few videos are usually available for free from each course so you can see if it’s the right fit for you. After that, you’ll need to purchase a subscription to see the rest of the lessons.
