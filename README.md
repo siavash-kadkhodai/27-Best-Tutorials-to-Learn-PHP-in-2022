@@ -138,3 +138,5 @@ If you want a course that takes you from zero to PHP mastery, try this out. It t
 Lynda contains 55 PHP courses and nearly 2000 video tutorials, which are usually several hours long. Like Udemy, these are made by many different people and cover a variety of PHP-related topics. You can sort the results by skill level, subject, and even PHP version.
 
 Plus, a few videos are usually available for free from each course so you can see if it’s the right fit for you. After that, you’ll need to purchase a subscription to see the rest of the lessons.
+
+4.
