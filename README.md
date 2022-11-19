@@ -139,4 +139,8 @@ Lynda contains 55 PHP courses and nearly 2000 video tutorials, which are usually
 
 Plus, a few videos are usually available for free from each course so you can see if it’s the right fit for you. After that, you’ll need to purchase a subscription to see the rest of the lessons.
 
-4.
+4. Coursera PHP Courses
+
+Want to learn from universities without having to actually go to college? These Coursera lessons are the way to go. Some are free, but many do have a fee you’ll need to pay to enroll.
+
+Financial aid is available, so this can be an affordable option. You actually enroll in a scheduled course, work alongside peers, get graded, and earn certification.
