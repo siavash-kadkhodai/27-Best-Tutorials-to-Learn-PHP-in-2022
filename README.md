@@ -154,4 +154,6 @@ Want to build your own website from nothing? This course teaches you everything 
 
 Making a clone is one of the best ways to master a skill. It can teach you to copy how the experts do it while giving you room to add your own touches and experiment. This course teaches you not just PHP but JavaScript and MySQL, all from absolutely nothing. You’ll make a Spotify clone using your new skills as it walks you through every step of the journey.
 
-7.....
+7. Laracasts Journey: PHP
+
+Laracasts is a massive source of screencasts or video tutorials that record the screen and show you everything the teacher is doing. There are hundreds of PHP lessons here and the entire beginner course is free. For $15/month you can access all the premium lessons.
