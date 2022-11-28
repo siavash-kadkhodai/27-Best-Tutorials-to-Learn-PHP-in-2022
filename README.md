@@ -157,3 +157,7 @@ Making a clone is one of the best ways to master a skill. It can teach you to co
 7. Laracasts Journey: PHP
 
 Laracasts is a massive source of screencasts or video tutorials that record the screen and show you everything the teacher is doing. There are hundreds of PHP lessons here and the entire beginner course is free. For $15/month you can access all the premium lessons.
+
+8. Treehouse PHP Courses
+
+Treehouse offers thousands of courses on its site for a monthly fee, with over thirty PHP courses to study. Along with video, there’s quizzes and objectives on each lesson to help you master what you learned. Some courses only a few minutes long, while others have hours of video content. And if you want to try out other web languages, a Treehouse subscription gets you access to those as well.
