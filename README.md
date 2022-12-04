@@ -164,4 +164,4 @@ Treehouse offers thousands of courses on its site for a monthly fee, with over t
 
 9. The Complete PHP MYSQL Professional Course with 5 Projects
 
-
+PHP and MySQL often go hand in hand. If backend development is your goal, this course has five projects to help you progress in your career. With 148 lectures and 20 hours of video, this one is going to keep you busy for a long time!
