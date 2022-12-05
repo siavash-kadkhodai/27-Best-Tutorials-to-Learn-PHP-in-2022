@@ -165,3 +165,9 @@ Treehouse offers thousands of courses on its site for a monthly fee, with over t
 9. The Complete PHP MYSQL Professional Course with 5 Projects
 
 PHP and MySQL often go hand in hand. If backend development is your goal, this course has five projects to help you progress in your career. With 148 lectures and 20 hours of video, this one is going to keep you busy for a long time!
+
+10. Pluralsight PHP Courses
+
+Pluralsight is a source of premium computer science and technology lessons. For a monthly fee, you get access to video courses as well as learning paths that can build you up to certain career roles, or even get you certified.
+
+Using this platform, you can measure your skills in certain areas to determine how well you’d do at various tech jobs. The primary goal here is to help you gain the skills you need to become a professional developer and get you into the business.
